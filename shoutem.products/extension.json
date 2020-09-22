@@ -2,8 +2,8 @@
   "name": "products",
   "version": "2.3.0",
   "platform": "2.3.*",
-  "title": "Products",
-  "description": "Zobrazení produktů s odkazem na nákup",
+  "title": "Produkty",
+  "description": "Show products with purchase link",
   "categories": [
     "commerce"
   ],
